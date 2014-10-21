@@ -1,3 +1,9 @@
+#Siwat Thumvilai				5631378321
+#Phoomipat Utis					5631307821
+#Sorawit Watcharakamthorn		5631347921
+#Kawinpong Rangkasikorn			5631375421
+
+
 class Game
 
 	attr_reader :scores,:attempts,:try1,:try2,:try1Thrown,:try2Thrown,:bonus3,:bonus4,:frame,:nextRollBonus,:fillShots
